@@ -21,19 +21,4 @@ IdealSchool is a Flutter mobile application designed to provide a rich education
 
 ![Demo](assets/images/demo.gif)
 
----
-
-## Getting Started
-
-### Prerequisites
-
-- Flutter SDK installed (version X.X.X or higher)
-- Firebase project setup with appropriate configurations
-
-### Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/yourusername/idealschool.git
-   cd idealschool
+   
